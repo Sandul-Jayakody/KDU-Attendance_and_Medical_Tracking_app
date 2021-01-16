@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">test2</string>
+    <string name="twitterUsername">\@joeytribbiani</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="auth_failed" />
+    <string name="minimum_password" />
+
+    <string name="action_sign_in_short">Register</string>
+
+
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="attendance_per_subject">Attendance per subject</string>
+    <string name="medical_report_details">Medical report details</string>
+    <string name="view_profile">View profile</string>
+    <string name="exit">Exit</string>
+    <string name="overall_attendance">Overall Attendance</string>
+    <string name="subject_attendance">subject attendance</string>
+    <string name="medical_tracking">medical tracking</string>
+    <string name="profile">profile</string>
+    <string name="track_medical">Track Medical</string>
+    <string name="cancel">Cancel</string>
+    <string name="estimated_time">Estimated Time</string>
+    <string name="order_number">Order Number</string>
+    <string name="_30_minutes">30 Minutes</string>
+    <string name="order_number_value">#C862966</string>
+    <string name="order_placed">Order Placed</string>
+    <string name="we_have_get_your_medical_reports">We Have get your medical reports</string>
+    <string name="oreder_confirmed">Oreder Confirmed</string>
+    <string name="head_of_department">Head Of Department</string>
+    <string name="management_assistant">Management Assistant</string>
+    <string name="medical_report_has_been_confirmed">Medical Report has been confirmed</string>
+
+    <string name="ar_office">AR Office</string>
+
+    <string name="dean_of_the_faculty">Dean of The Faculty</string>
+    <string name="medical_reports_have_been_accepted">Medical Reports have been accepted</string>
+    <string name="medical_reports_have_been_accepted_by_dean">medical reports have been accepted by Dean</string>
+    <string name="medical_reports_have_been_accepted_by_ar_office">medical_reports_have_been_accepted by AR Office</string>
+    <string name="medical_reports_have_been_accepted_by_hod">medical reports have been accepted by HOD</string>
+    <string name="medical_reports_have_been_accepted_by_Ar_office">medical reports have been accepted by AR Office</string>
+
+    <string name="reference_no">Reference No</string>
+    <string name="track_Medical">Track Medical</string>
+    <string name="_30_days">30 Days</string>
+    <string name="Medical_reports_have_been_accepted">medical reports have been accepted</string>
+    <string name="medical_Reports_have_been_accepted">medical reports have been accepted</string>
+    <string name="medical_reports_Have_been_accepted">medical reports have been accepted</string>
+    <string name="cadetName" />
+    <string name="serviceNumber">service</string>
+    <string name="Troop">troop</string>
+    <string name="enter_service_number">servicenumber</string>
+</resources>

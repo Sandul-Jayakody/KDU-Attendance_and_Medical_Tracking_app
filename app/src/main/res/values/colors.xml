@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+    <color name="top_bg">#EEEBEB</color>
+    <color name="sub1_start">#F56BD2</color>
+    <color name="sub1_end">#A20BBD</color>
+    <color name="sub2_start">#F0A12C</color>
+    <color name="sub2_end">#F06406</color>
+    <color name="sub3_start">#E98F0B</color>
+    <color name="sub3_end">#F8CA40</color>
+    <color name="sub4_start">#EBF39B73</color>
+    <color name="sub4_end">#F38524</color>
+    <color name="sub5_start">#C11CDD</color>
+    <color name="sub5_end">#526AEE</color>
+    <color name="sub6_start">#3EC2FA</color>
+    <color name="sub6_end">#526AEE</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorSemiDark">#40000000</color>
+    <color name="colorDivider">#E9E9E9</color>
+    <color name="colorLabelBackground">#99F2F2F2</color>
+    <color name="colorRemaining">#757575</color>
+    <color name="colorRemaining2">#9CB1E6</color>
+    <color name="address">#2F7092</color>
+    <color name="followers">#0D5D98</color>
+    <color name="headings">#3797CF</color>
+    <color name="solidCircle">#AAFFFFFF</color>
+    <color name="circleBorder">#50FFFFFF</color>
+    <color name="gradEnd">#67EFC8</color>
+    <color name="gradStart">#63C9FF</color>
+    <color name="followersBg">#65DCE5</color>
+    <color name="followingBg">#49BEFF</color>
+    <color name="grey">#E5E5E5</color>
+
+
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background = "#000000">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="384dp"
+        android:layout_height="82dp"
+        android:background="#ffa500"
+        android:text="Attendance per subject"
+        tools:layout_editor_absoluteX="13dp"
+        tools:layout_editor_absoluteY="244dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="387dp"
+        android:layout_height="78dp"
+        android:background="#ffa500"
+        android:text="Medical report details"
+        tools:layout_editor_absoluteX="13dp"
+        tools:layout_editor_absoluteY="351dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="390dp"
+        android:layout_height="82dp"
+        android:background="#ffa500"
+        android:text="View profile"
+        tools:layout_editor_absoluteX="13dp"
+        tools:layout_editor_absoluteY="458dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="120dp"
+        android:layout_height="65dp"
+        android:text="Exit"
+        tools:layout_editor_absoluteX="151dp"
+        tools:layout_editor_absoluteY="607dp"
+        android:background="#ffa500"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
