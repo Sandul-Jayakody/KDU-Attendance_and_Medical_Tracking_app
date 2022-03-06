@@ -5,4 +5,13 @@ Email:test@gmail.com
 
 Password:testing123
 ## Design
-![Picture1](https://user-images.githubusercontent.com/77521485/104808555-2300b480-580d-11eb-90ac-04033d7ce15d.jpg)
+
+<table>
+
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/77521485/104808555-2300b480-580d-11eb-90ac-04033d7ce15d.jpg" width=600 height=600></td>
+  
+    
+  </tr>
+ </table>
+ 
